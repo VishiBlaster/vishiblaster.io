@@ -1,2 +1,2 @@
 # vishiblaster.io
-This is a
+This is a fun
